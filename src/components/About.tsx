@@ -7,10 +7,10 @@ const About = () => {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-12 glass-card p-8 rounded-2xl">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600 animate-gradient">
-            Puttaraj Hanagalmath
+            Puttaraj M Hangalmath
           </h1>
           <p className="text-xl text-gray-600 mb-6">
-            Python Automation Developer | Information Security Analyst | Project Engineer
+            Python Automation Developer | Information Security Analyst | Project Engineer | Software Engineer
           </p>
           <div className="flex justify-center space-x-4">
             <a

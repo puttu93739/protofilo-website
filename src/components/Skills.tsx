@@ -30,12 +30,12 @@ const Skills = () => {
     {
       title: "Backend Technologies",
       icon: Server,
-      skills: ["Spring Boot", "Django", "Flask"]
+      skills: ["Spring Boot", "Django", "Flask","System Design"]
     },
     {
       title: "Database & OS",
       icon: Database,
-      skills: ["MongoDB", "SQL", "Linux", "Ubuntu"]
+      skills: ["MongoDB", "SQL", "Kali Linux", "Ubuntu"]
     },
     {
       title: "Data Science",
