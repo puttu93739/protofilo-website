@@ -10,7 +10,7 @@ const About = () => {
             Puttaraj Hanagalmath
           </h1>
           <p className="text-xl text-gray-600 mb-6">
-            Python Developer | Information Security Analyst | Backend Engineer
+            Python Automation Developer | Information Security Analyst | Project Engineer
           </p>
           <div className="flex justify-center space-x-4">
             <a
