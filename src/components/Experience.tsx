@@ -45,7 +45,7 @@ const Experience = () => {
       location: "Bangalore, Karnataka",
       period: "Present",
       responsibilities: [
-        "Working as a Python Developer focusing on backend development and API integration",
+        "Working as a Python Automation Test Engineer",
         "Conducting penetration testing and security assessments as part of the cybersecurity team",
         "Implementing security best practices and vulnerability remediation",
         "Collaborating with cross-functional teams to ensure robust security measures"
